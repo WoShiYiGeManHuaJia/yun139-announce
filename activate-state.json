@@ -13,8 +13,8 @@
       "activatedAt": ""
     },
     "Y139-FV5UC2": {
-      "deviceId": "",
-      "activatedAt": ""
+      "deviceId": "1d998eae79744406bce103279c150540",
+      "activatedAt": "2026-11-03T14:22:21.628Z"
     },
     "Y139-KA39UF": {
       "deviceId": "",
@@ -69,6 +69,10 @@
     "5f4057745f584ae59b122f85948ab5d9": {
       "code": "Y139-339F7V",
       "activatedAt": "2026-11-03T08:17:38.910Z"
+    },
+    "1d998eae79744406bce103279c150540": {
+      "code": "Y139-FV5UC2",
+      "activatedAt": "2026-11-03T14:22:21.628Z"
     }
   }
 }
