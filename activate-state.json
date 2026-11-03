@@ -1,8 +1,8 @@
 {
   "codes": {
     "Y139-339F7V": {
-      "deviceId": "",
-      "activatedAt": ""
+      "deviceId": "5f4057745f584ae59b122f85948ab5d9",
+      "activatedAt": "2026-11-03T08:17:38.910Z"
     },
     "Y139-3VRV5H": {
       "deviceId": "",
@@ -65,6 +65,10 @@
     "2a96bcb7d368476aa13f8e8b2568c34e": {
       "code": "Y139-SJNYYE",
       "activatedAt": "2026-11-03T05:29:04.016Z"
+    },
+    "5f4057745f584ae59b122f85948ab5d9": {
+      "code": "Y139-339F7V",
+      "activatedAt": "2026-11-03T08:17:38.910Z"
     }
   }
 }
