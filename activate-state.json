@@ -37,8 +37,8 @@
       "activatedAt": ""
     },
     "Y139-W7PZXP": {
-      "deviceId": "",
-      "activatedAt": ""
+      "deviceId": "dcdc12e19ab14c899803b647bed8ebad",
+      "activatedAt": "2026-11-03T04:49:20.755Z"
     },
     "Y139-XMMT7B": {
       "deviceId": "SELFTEST",
@@ -49,6 +49,10 @@
     "SELFTEST": {
       "code": "Y139-XMMT7B",
       "activatedAt": "2026-11-03"
+    },
+    "dcdc12e19ab14c899803b647bed8ebad": {
+      "code": "Y139-W7PZXP",
+      "activatedAt": "2026-11-03T04:49:20.755Z"
     }
   }
 }
