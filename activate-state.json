@@ -13,8 +13,8 @@
       "activatedAt": ""
     },
     "Y139-FV5UC2": {
-      "deviceId": "",
-      "activatedAt": ""
+      "deviceId": "PHONE_A_REAL_TEST",
+      "activatedAt": "2026-11-03T04:37:16.024Z"
     },
     "Y139-KA39UF": {
       "deviceId": "",
@@ -49,6 +49,10 @@
     "SELFTEST": {
       "code": "Y139-XMMT7B",
       "activatedAt": "2026-11-03"
+    },
+    "PHONE_A_REAL_TEST": {
+      "code": "Y139-FV5UC2",
+      "activatedAt": "2026-11-03T04:37:16.024Z"
     }
   }
 }
