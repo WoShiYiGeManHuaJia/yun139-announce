@@ -1,12 +1,12 @@
 {
   "codes": {
     "Y139-339F7V": {
-      "deviceId": "TEST_NEW_DEVICE",
-      "activatedAt": "2026-11-03T04:28:06.942Z"
+      "deviceId": "",
+      "activatedAt": ""
     },
     "Y139-3VRV5H": {
-      "deviceId": "TEST_VERIFIED_OK",
-      "activatedAt": "2026-11-03T04:30:24.470Z"
+      "deviceId": "",
+      "activatedAt": ""
     },
     "Y139-7Q5HFN": {
       "deviceId": "",
@@ -41,22 +41,14 @@
       "activatedAt": ""
     },
     "Y139-XMMT7B": {
-      "deviceId": "TEST_UR_FIX",
-      "activatedAt": "2026-11-03T04:25:12.489Z"
+      "deviceId": "SELFTEST",
+      "activatedAt": "2026-11-03"
     }
   },
   "devices": {
-    "TEST_UR_FIX": {
+    "SELFTEST": {
       "code": "Y139-XMMT7B",
-      "activatedAt": "2026-11-03T04:25:12.489Z"
-    },
-    "TEST_NEW_DEVICE": {
-      "code": "Y139-339F7V",
-      "activatedAt": "2026-11-03T04:28:06.942Z"
-    },
-    "TEST_VERIFIED_OK": {
-      "code": "Y139-3VRV5H",
-      "activatedAt": "2026-11-03T04:30:24.470Z"
+      "activatedAt": "2026-11-03"
     }
   }
 }
