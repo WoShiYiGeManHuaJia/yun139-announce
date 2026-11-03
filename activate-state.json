@@ -1,8 +1,8 @@
 {
   "codes": {
     "Y139-339F7V": {
-      "deviceId": "",
-      "activatedAt": ""
+      "deviceId": "TEST_NEW_DEVICE",
+      "activatedAt": "2026-11-03T04:28:06.942Z"
     },
     "Y139-3VRV5H": {
       "deviceId": "",
@@ -49,6 +49,10 @@
     "TEST_UR_FIX": {
       "code": "Y139-XMMT7B",
       "activatedAt": "2026-11-03T04:25:12.489Z"
+    },
+    "TEST_NEW_DEVICE": {
+      "code": "Y139-339F7V",
+      "activatedAt": "2026-11-03T04:28:06.942Z"
     }
   }
 }
