@@ -41,9 +41,14 @@
       "activatedAt": ""
     },
     "Y139-XMMT7B": {
-      "deviceId": "",
-      "activatedAt": ""
+      "deviceId": "TEST_UR_FIX",
+      "activatedAt": "2026-11-03T04:25:12.489Z"
     }
   },
-  "devices": {}
+  "devices": {
+    "TEST_UR_FIX": {
+      "code": "Y139-XMMT7B",
+      "activatedAt": "2026-11-03T04:25:12.489Z"
+    }
+  }
 }
