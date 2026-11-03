@@ -21,8 +21,8 @@
       "activatedAt": ""
     },
     "Y139-NPGBBR": {
-      "deviceId": "",
-      "activatedAt": ""
+      "deviceId": "5c294a655ec64e8299f8b64cc72130b3",
+      "activatedAt": "2026-11-03T05:06:39.055Z"
     },
     "Y139-PMUQ9F": {
       "deviceId": "",
@@ -57,6 +57,10 @@
     "95e0b5e08db041989298977505d23983": {
       "code": "Y139-QKHTW2",
       "activatedAt": "2026-11-03T04:51:08.388Z"
+    },
+    "5c294a655ec64e8299f8b64cc72130b3": {
+      "code": "Y139-NPGBBR",
+      "activatedAt": "2026-11-03T05:06:39.055Z"
     }
   }
 }
